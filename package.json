@@ -1,0 +1,53 @@
+{
+  "name": "mr-frontend-extention-pack",
+  "displayName": "MR FrontEnd Extention Pack",
+  "description": "front-end extensionPack 2025",
+  "author": "Mostafa Rastegar <m.rastegar991@gmail.com>",
+  "license": "MIT",
+  "publisher": "MostafaRastegar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MostafaRastegar/mr-frontend-extension-pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "reactjs",
+    "angular",
+    "react",
+    "vue",
+    "es6",
+    "es7",
+    "javascript",
+    "front-end",
+    "frontEnd",
+    "extension pack"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "jannisx11.batch-rename-extension",
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "visualstudioexptteam.vscodeintellicode",
+    "orta.vscode-jest",
+    "mostafarastegar.js-react-snippets",
+    "ritwickdey.liveserver",
+    "xyc.vscode-mdx-preview",
+    "johnpapa.vscode-peacock",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml",
+    "gruntfuggly.todo-tree",
+    "sdras.night-owl"
+  ]
+}
