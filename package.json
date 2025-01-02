@@ -4,13 +4,13 @@
   "description": "front-end extensionPack 2025",
   "author": "Mostafa Rastegar <m.rastegar991@gmail.com>",
   "license": "MIT",
-  "icon": "icon.jpg",
+  "icon": "icon.png",
   "publisher": "MostafaRastegar",
   "repository": {
     "type": "git",
     "url": "https://github.com/MostafaRastegar/mr-frontend-extension-pack"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.0.0"
   },
