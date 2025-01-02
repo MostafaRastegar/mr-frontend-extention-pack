@@ -16,6 +16,11 @@ A comprehensive collection of essential extensions for front-end developers in 2
 - **Link**: [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - **Description**: Automatically renames paired HTML/XML tags.
 
+### MR Keymap
+
+- **Link**: [MR keymap](https://marketplace.visualstudio.com/items?itemName=mostafarastegar.mr-keymap)
+- **Description**: Fast use keymap.
+
 ### Batch Rename Extension
 
 - **Link**: [Batch Rename Extension](https://marketplace.visualstudio.com/items?itemName=jannisx11.batch-rename-extension)
