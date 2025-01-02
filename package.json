@@ -1,9 +1,10 @@
 {
   "name": "mr-frontend-extention-pack",
-  "displayName": "MR FrontEnd Extention Pack",
+  "displayName": "MR FrontEnd Extention Pack (2025)",
   "description": "front-end extensionPack 2025",
   "author": "Mostafa Rastegar <m.rastegar991@gmail.com>",
   "license": "MIT",
+  "icon": "icon.jpg",
   "publisher": "MostafaRastegar",
   "repository": {
     "type": "git",
@@ -41,13 +42,13 @@
     "orta.vscode-jest",
     "mostafarastegar.js-react-snippets",
     "ritwickdey.liveserver",
-    "xyc.vscode-mdx-preview",
     "johnpapa.vscode-peacock",
     "esbenp.prettier-vscode",
     "bradlc.vscode-tailwindcss",
     "vscode-icons-team.vscode-icons",
     "redhat.vscode-yaml",
     "gruntfuggly.todo-tree",
-    "sdras.night-owl"
+    "sdras.night-owl",
+    "kuscamara.remove-unused-imports"
   ]
 }
